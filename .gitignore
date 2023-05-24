@@ -1,0 +1,10 @@
+.venv
+.vscode
+.env
+pyproject.toml
+*.tmp
+user_upload
+__pycache__
+base64testing.ipynb
+node_modules
+models
